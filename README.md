@@ -29,8 +29,8 @@
 
 ### 📫 Como me encontrar:
 
-- 📧 Email: michaelferreira.7@gmail.com  
-- 📸 Instagram: [@michael.chaves](https://instagram.com/michael.chaves)  
+- 📧 Email: michaelferreira.7.d@gmail.com  
+- 📸 Instagram: [@_michael_chaves](https://instagram.com/michael.chaves)  
 - 💼 LinkedIn: [Michael Chaves](https://www.linkedin.com/in/michael-chaves-3a0f2902a/)
 
 
