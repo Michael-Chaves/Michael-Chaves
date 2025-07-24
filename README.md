@@ -19,12 +19,9 @@
 ### 📈 Estatísticas GitHub:
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelChaves&show_icons=true&theme=github_dark&count_private=true)
-
-## 🧠 Linguagens mais usadas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelChaves&layout=compact&theme=github_dark)
 
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelChaves&show_icons=true&theme=github_dark&count_private=true)
+
 
 
 
